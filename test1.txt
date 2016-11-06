@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E802-61FA
+
+ Directory of C:\Study\BuildTools\GitProject
+
+11/06/2016  01:44 PM    <DIR>          .
+11/06/2016  01:44 PM    <DIR>          ..
+11/06/2016  01:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,144,764,928 bytes free
